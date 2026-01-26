@@ -1,0 +1,13 @@
+git (comando para acessar o git pelo terminal)
+git --version (pra saber a versão do commit)
+git init (abrir/iniciar o git)
+git config (configurar o git)
+git config user.name (configurar/saber o nome)
+git config user.email (saber/configurar email)
+git branch -M main (mudar o nome da branch principal pra main)
+git config --global (usar o mesmo email associado ao criar novos repositórios)
+git status (mostra o status do git, o que está acontecendo, sendo criado ou iniciado)
+git add . (para tornar todos os arquivos parte do repositório)
+git add (nome do arquivo) = (tornar apenas este arquivo parte do repositório)
+git commit -m "add new file: (nome do arquivo)" = (salvar no histórico
+dar um save para não perder depois e sempre poder acessar)
