@@ -24,3 +24,5 @@ git merge nome_da_branch (para salvar informações da (s) outra branch (s)
  comandos e dando o site em que os arquivos serão enviados)
 2 - git branch -M main (escolhendo a branch)
 3 - git push -u origin main (push... passo final para adicionar ao github)
+
+git pull - (puxar uma alteração do github para o vscode, repositório online para o local)
