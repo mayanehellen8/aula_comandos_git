@@ -16,6 +16,7 @@ git checkout -b nome_da_branch (espécie de nova sessão, cria e acessa outra br
 git checkout (ou switcht) nome_da_branch (para apenas trocar de branch)
 git merge nome_da_branch (para salvar informações da (s) outra branch (s)
  acessada/alterada, na branch atual)
+ git remote remove origin (resolver o problema de a branch estar vinculada a uma origem que você não quer)
 
 3 comandos para adicionar branch ao github: 
 
