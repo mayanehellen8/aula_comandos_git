@@ -16,3 +16,10 @@ git checkout -b nome_da_branch (espécie de nova sessão, cria e acessa outra br
 git checkout (ou switcht) nome_da_branch (para apenas trocar de branch)
 git merge nome_da_branch (para salvar informações da (s) outra branch (s)
  acessada/alterada, na branch atual)
+
+3 comandos para adicionar branch ao github: 
+
+1 - git remote add origin https://github.com/mayanehellen8/aula1_git.git (estou adicionando ao github com os
+ comandos e dando o site em que os arquivos serão enviados)
+2 - git branch -M main (escolhendo a branch)
+3 - git push -u origin main (push... passo final para adicionar ao github)
