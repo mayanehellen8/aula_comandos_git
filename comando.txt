@@ -27,3 +27,5 @@ git merge nome_da_branch (para salvar informações da (s) outra branch (s)
 
 git pull - (puxar uma alteração do github para o vscode, repositório online para o local)
 git push - (puxar do local para o online)
+
+novo comando
